@@ -1,0 +1,32 @@
+<data>
+	<utterance id="1">
+		en en en en en X X en en en en en en NE en en X en 
+	</utterance>
+	<utterance id="2">
+		kn kn 
+	</utterance>
+	<utterance id="3">
+		en en en ta ta en en ta en ta 
+	</utterance>
+	<utterance id="4">
+		gu gu gu gu gu gu en gu gu gu 
+	</utterance>
+	<utterance id="5">
+		en bn bn 
+	</utterance>
+	<utterance id="6">
+		en en X X 
+	</utterance>
+	<utterance id="7">
+		te te te te te te te te te te te te te te te te te te te te te te 
+	</utterance>
+	<utterance id="8">
+		ta ta ta X ta ta ta ta X 
+	</utterance>
+	<utterance id="9">
+		en en en en X en en en X en en X en en X en X en X en en en X X en en X 
+	</utterance>
+	<utterance id="10">
+		NE_P X ta ta ta X ta ta ta ta ta ta X ta X ta X ta X ta ta X ta ta ta ta ta X 
+	</utterance>
+</data>

@@ -1,0 +1,32 @@
+<data>
+	<utterance id="1">
+		hesitate in to giving is @aapleaks #aapsweep revenge should this stateFhood take way bjp not the #aapstorm best 
+	</utterance>
+	<utterance id="2">
+		Tinbeku anstide 
+	</utterance>
+	<utterance id="3">
+		Last Week FEMALE Name'la oru FAKE PROFILE onnu create pannen 
+	</utterance>
+	<utterance id="4">
+		tamaari paase to hradaya chhe pan machine paase hradaya kya 
+	</utterance>
+	<utterance id="5">
+		swimming sekhar upokarita 
+	</utterance>
+	<utterance id="6">
+		disciplined child ...... :D 
+	</utterance>
+	<utterance id="7">
+		Daadaapu tombhayi aidu saatam postulani bhartee chesaamani, inka migili unna oka veyyi aaru vandala aravayi yedu postulanu koodaa tvaralo bhartee cheyyalani nirnayinchaaru 
+	</utterance>
+	<utterance id="8">
+		aval pona pinbu , enthan bittai thedi pogiren ... 
+	</utterance>
+	<utterance id="9">
+		Gourhari from bengali department , damn you're hot ! Fuck me , I'd wine , dine , and 69 you any day . - ju BCSE 2011 
+	</utterance>
+	<utterance id="10">
+		Mark : Yaenda naaye kannu - la ellam poda adhu enna mai - a ? Nallavela , osi - la kadachuthu - nu vaera engayum thadavama vittaye . 
+	</utterance>
+</data>
